@@ -1,10 +1,10 @@
 title: OCI TAO
 email: info@objectcomputing.com
 description: >
-  OCI TAO is OCI's supported release of the ACE ORB. OCI TAO is freely available, both in terms
-  of spirit and cost. OCI provides fee based, commercial support for TAO including older versions
+  OCI TAO is Object Computing's supported release of the ACE ORB. OCI TAO is freely available, both in terms
+  of spirit and in terms of cost. OCI provides fee-based commercial support for TAO including older versions
   thereby facilitating support for the duration of long-lifespan product. For more information
-  about OCI's support offering contact mailto:info@objectcomputing.com
+  about OCI's support offerings, contact info@objectcomputing.com
 baseurl: "https://theaceorb.com"
 twitter_username: ObjectComputing
 github_username:  objectcomputing
