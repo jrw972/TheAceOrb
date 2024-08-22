@@ -14,7 +14,7 @@ markdown: kramdown
 
 # github-metadata
 repository: objectcomputing/OCITAO
-gems: ['jekyll-github-metadata', 'octopress-debugger' ]
+plugins: ['jekyll-github-metadata', 'octopress-debugger', 'jekyll-redirect-from']
 
 #OCI web metadata
 product_logo_url: ../images/TAO-logo-1.png
